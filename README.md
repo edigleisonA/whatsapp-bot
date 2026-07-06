@@ -44,4 +44,4 @@ python interface.py
 
 * O WhatsAppWeb deve estar aberto.
 * Ajuste as imagens de referência conforme sua resolução.
-* O arquivo `grupos.txt` contém exemplo de grupos.
+* O arquivo `grupos_exemplos.txt` contém exemplo de grupos.
